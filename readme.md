@@ -1,4 +1,4 @@
-# Projeto Avançado - Conexão com Banco de Dados MariaDB
+# Projeto - Conexão com Banco de Dados MariaDB
 
 ## Descrição
 Este projeto demonstra como estabelecer uma conexão com um banco de dados MariaDB a partir de um projeto Python usando o PyCharm. Ele também aborda a criação de um arquivo .env para armazenar variáveis de ambiente de forma segura e a geração de scripts DAO baseados na modelagem do banco de dados.
