@@ -4,7 +4,7 @@
 .venv/
 
 # Arquivos de configuração local
-*.env
+.env
 
 # Arquivos de byte compilados
 *.pyc
