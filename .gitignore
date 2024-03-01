@@ -1,0 +1,31 @@
+# Arquivos e diretórios específicos a serem ignorados
+
+# Ambientes virtuais
+.venv/
+
+# Arquivos de configuração local
+*.env
+
+# Arquivos de byte compilados
+*.pyc
+
+# Diretório de build
+build/
+
+# Diretório de distribuição
+dist/
+
+# Diretório de cache
+__pycache__/
+
+# Arquivo de registro
+*.log
+
+# Arquivo de ambiente
+.env
+
+# Ignorar arquivos de configuração do PyCharm
+.idea/
+
+# Ignorar arquivos de cache do PyCharm
+*.iml
